@@ -1,0 +1,15 @@
+# Core Frameworks
+langchain-core
+langchain-community
+langgraph
+
+# Ollama Specific Integrations
+langchain-ollama
+
+# RAG & Web Scraping
+beautifulsoup4
+chromadb
+
+# Utility & Dependencies
+pydantic>=2.0.0
+typing-extensions
